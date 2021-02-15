@@ -43,7 +43,7 @@
 *	https://medium.com/@plenumlab
 *	https://medium.com/@shahmeeramir
 *	https://medium.com/@alyssa.o.herrera
-*	https://medium.com/@avileox/following
+*	https://medium.com/@avileox
 *	https://medium.com/@kenanistaken
 *	https://medium.com/@somdevsangwan
 *	https://medium.com/@friendly_
